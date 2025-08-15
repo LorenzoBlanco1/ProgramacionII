@@ -1,6 +1,15 @@
-PROGRAMACIÓN II
+# 💻 Programación II  
+**Tecnicatura Universitaria en Programación**  
+📍 *Universidad Tecnológica Nacional*  
 
+## ✨ Estudiante  
+- **Nombre:** Lorenzo Xavier Blanco Ortin  
 
-Hola, mi nombre es Lorenzo Blanco. Este es mi repositorio de Programación II. 
-En este repositorio se alojaran todos los trabajos que iremos realizando a lo 
-largo de la cursada. 
+## 📂 Descripción del Repositorio  
+Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de **Programación II**.  
+
+📌 **Estructura del repositorio:**  
+- Cada trabajo está organizado en carpetas individuales.  
+- Los archivos de código fuente incluyen comentarios y estructura adecuada.  
+- Se busca mantener un código limpio, ordenado y bien documentado.  
+
