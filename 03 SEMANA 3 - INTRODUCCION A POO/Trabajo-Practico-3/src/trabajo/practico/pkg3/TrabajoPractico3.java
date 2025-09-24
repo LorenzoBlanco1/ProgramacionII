@@ -1,33 +1,23 @@
-
 package trabajo.practico.pkg3;
-
-
 public class TrabajoPractico3 {
-
-    
     public static void main(String[] args) {
         // Crear un objeto de clase estudiante.
         Estudiantes estudiante1 = new Estudiantes();
-        
         // Instanciar un objeto de clase estudiante.
         estudiante1.setNombre("Lorenzo");
         estudiante1.setApellido("Blanco");
         estudiante1.setCurso("1 A");
         estudiante1.setCalificacion(9);
         estudiante1.mostrarInfo(); 
-        
         // Subir calificacion utilizando el metodo subirCalificacion(puntos)
         estudiante1.subirCalificacion(1);
         System.out.println("La calificacion de " + estudiante1.nombre + " es " + estudiante1.calificacion);
-        
         // Bajar calificacion utilizando el metodo bajarCalificacion(puntos)
         estudiante1.bajarCalificacion(1);
         System.out.println("La calificacion de " + estudiante1.nombre + " es " + estudiante1.calificacion);
         
-        
         // Crear un objeto de la clase Mascotas.
         Mascotas mascota1 = new Mascotas();
-        
         // Instaciar un objeto de la clase Mascotas. 
         mascota1.setNombre("Enock");
         mascota1.setEspecie("Maltes");
