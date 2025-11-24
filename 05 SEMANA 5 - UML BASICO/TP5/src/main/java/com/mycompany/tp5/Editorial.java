@@ -1,0 +1,37 @@
+package com.mycompany.tp5;
+public class Editorial {
+    
+    private String nombre; 
+    private String direccion; 
+
+    public Editorial(String nombre, String direccion) {
+        this.nombre = nombre;
+        this.direccion = direccion;
+    }
+
+    public String getNombre() {
+        return nombre;
+    }
+
+    public void setNombre(String nombre) {
+        if (nombre != null){
+        this.nombre = nombre;}
+    }
+
+    public String getDireccion() {
+        return direccion;
+    }
+
+    public void setDireccion(String direccion) {
+        if (direccion != null){
+        this.direccion = direccion;}
+    }
+
+    @Override
+    public String toString() {
+        return "Editorial{" + "nombre=" + nombre + ", direccion=" + direccion + '}';
+    }
+    
+    
+    
+}
