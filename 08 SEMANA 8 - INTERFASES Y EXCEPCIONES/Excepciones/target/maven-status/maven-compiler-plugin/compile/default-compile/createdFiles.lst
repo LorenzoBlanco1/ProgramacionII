@@ -1,0 +1,7 @@
+com\mycompany\excepciones\Excepciones.class
+com\mycompany\excepciones\LecturaDeArchivo.class
+com\mycompany\excepciones\ConversionesDeCadena.class
+com\mycompany\excepciones\DivisionSegura.class
+com\mycompany\excepciones\EdadInvalidaException.class
+com\mycompany\excepciones\ExcepcionPersonalizada.class
+com\mycompany\excepciones\TryConRecursos.class

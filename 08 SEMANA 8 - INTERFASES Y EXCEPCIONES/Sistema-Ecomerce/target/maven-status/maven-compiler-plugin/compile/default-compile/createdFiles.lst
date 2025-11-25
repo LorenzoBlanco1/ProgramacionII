@@ -1,0 +1,10 @@
+com\mycompany\sistema\ecomerce\Pago.class
+com\mycompany\sistema\ecomerce\Pedido.class
+com\mycompany\sistema\ecomerce\PagoConDescuento.class
+com\mycompany\sistema\ecomerce\Producto.class
+com\mycompany\sistema\ecomerce\SistemaEcomerce.class
+com\mycompany\sistema\ecomerce\Notificable.class
+com\mycompany\sistema\ecomerce\Cliente.class
+com\mycompany\sistema\ecomerce\TarjetaCredito.class
+com\mycompany\sistema\ecomerce\Pagable.class
+com\mycompany\sistema\ecomerce\PayPal.class
